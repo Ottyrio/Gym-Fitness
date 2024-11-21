@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+}
+h1{
+    text-align: center;
+}
+h2{
+    color: rgb(85, 42, 165);
+    font-weight: bold;
+    font-size: 20px;
+}
+
+p {
+    color: #FFCC00;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: darkslategray;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    height: 150px;
+    
+}
+
+.navbar a{
+    text-decoration: none;
+    color: chocolate;
+    padding: 90px;
+    display: block;
+    text-align: center;
+    float: left;
+}
+
+.navbar a:hover{
+    background-color: lightslategrey;
+}
+main{
+    margin-left: 20px;
+    margin-right: 20px;
+}
