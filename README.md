@@ -1,0 +1,2 @@
+Fitness point
+Tizi Point
